@@ -17,5 +17,7 @@ compatible/
 │   └── polyfill.min.js     支持es6新增api
 ├── placeholder-ie9/
 │   └── placeholder.min.js  兼容ie9 placeholder
+├── rem/
+│   └── rem.js              屏幕适配
 └── index.html              引用示例
 ```
