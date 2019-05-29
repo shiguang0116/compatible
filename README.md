@@ -1,6 +1,6 @@
 ﻿# compatible
 
-> 兼容浏览器的js文件
+> 浏览器兼容的相关js文件
 
 ## 说明
 
@@ -17,5 +17,5 @@ compatible/
 │   └── polyfill.min.js     支持es6新增api
 ├── placeholder-ie9/
 │   └── placeholder.min.js  兼容ie9 placeholder
-└── index.html 
+└── index.html              引用示例
 ```

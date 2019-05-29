@@ -1,7 +1,7 @@
 {
   "name": "compatible",
   "version": "1.0.0",
-  "description": "兼容浏览器的js文件",
+  "description": "浏览器兼容的相关js文件",
   "main": "index.js",
   "repository": {
     "type": "git",
