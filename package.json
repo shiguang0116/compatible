@@ -1,0 +1,21 @@
+{
+  "name": "compatible",
+  "version": "1.0.0",
+  "description": "兼容浏览器的js文件",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiguang0116/compatible"
+  },
+  "keywords": [
+    "html5",
+    "respond",
+    "ie"
+  ],
+  "author": "guang.shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiguang0116/compatible/issues"
+  },
+  "homepage": "https://github.com/shiguang0116/compatible#readme"
+}
